@@ -1,0 +1,43 @@
+
+
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+div {
+    width: 350px;
+    height: 240px;
+    padding: 0;
+    border: 0px;
+    margin: -8px;
+    background-color: red
+
+}
+
+.flag {
+    width: 500px;
+    height: 300px;
+    padding: 0px;
+    border: 0px;
+    margin: -8px;
+}
+
+.red {    
+    background-color: red
+}
+
+.black {    
+    background-color: black;
+}
+
+.yellow {    
+    background-color: gold;
+}
+
+.strip {
+    display: block;
+    width: 500px;
+    height: 100px;
+}
