@@ -1,0 +1,21 @@
+/* Add blank line between div's */
+
+
+
+.page {
+    width: 1000px;
+    height: 500px;
+    padding: 0px;
+    border: 0px;
+}
+
+.order {    
+    display: inline-block;
+    margin: 200px
+}
+
+.prices {    
+    color: blue;
+    margin: 200px
+    display: inline-block
+}
